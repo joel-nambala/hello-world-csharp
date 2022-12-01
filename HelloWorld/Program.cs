@@ -9,6 +9,7 @@ namespace HelloWorld
             // Display message to the console
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello, Joel");
+            Console.WriteLine("Goodbye world");
         }
     }
 }
